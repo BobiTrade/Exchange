@@ -6,7 +6,7 @@
 - App ID
 - App Secret
 #### API地址
-- https://wtrade.ytangdata.com/exchange-thirdparty/v1
+- https://api.whaletrade.com/exchange-thirdparty/v1
 
 
 ### 请求格式
